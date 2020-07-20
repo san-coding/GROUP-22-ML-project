@@ -4,9 +4,9 @@
 
 ## Team Members
 
-    - Sandeep Rajakrishnan
-    - Sudhay Senthilkumar
-    - Karthik Shriram
+-   Sandeep Rajakrishnan
+-   Sudhay Senthilkumar
+-   Karthik Shriram
 
 ---
 
