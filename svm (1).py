@@ -20,50 +20,8 @@ import pickle
 
 from sklearn.preprocessing import LabelEncoder
 
-
-
-
 from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
 # In[4]:
 
 
